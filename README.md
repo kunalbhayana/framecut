@@ -132,4 +132,4 @@ containing both.
 
 ## Licence
 
-MIT.
+Proprietary. All rights reserved — see `LICENSE`.
